@@ -1,0 +1,46 @@
+﻿Group,Species,Method1,Method2,Method3,Method4
+Frogs,Alpine Tree Frog,spotlight,,tadpole,
+Frogs,Blue Mountains Tree Frog,spotlight,,,
+Frogs,Booroolong Tree Frog,spotlight,tadpole,,
+Frogs,Dendys Toadlet,area,acoustic,,
+Frogs,Giant Burrowing Frog,spotlight,tadpole,,autoacou
+Frogs,Green and Golden Bell Frog,spotlight,tadpole,,
+Frogs,Kefersteins Tree Frog,area,acoustic,,
+Frogs,Littlejohns Tree Frog,spotlight,acoustic,,
+Frogs,Martins Toadlet,area,acoustic,,
+Frogs,Southern Barred Frog,spotlight,,tadpole,
+Frogs,Spotted Tree Frog,spotlight,,tadpole,
+Birds,Brown Gerygone,,area,,mist
+Birds,Eastern Bristlebird,,area,,
+Birds,Ground Parrot,acoustic,point,,autoacou
+Birds,Lewins Honeyeater,active,,,
+Birds,Red-browed Treecreeper,,area,,mist
+Birds,Regent Honeyeater,active,,area,
+Birds,Spotted Quail-thrush,,area,,
+Birds,Swift Parrot,,,area,
+Mammals,Broad-toothed Rat,camera,cage,,
+Mammals,Brush-tailed Rock-wallaby,camera,,area,thermal
+Mammals,Eastern Pygmy-possum,camera,elliot,spotlight,
+Mammals,Koala,,,area,autoacou
+Mammals,Long-footed Potoroo,camera,hair,area,track
+Mammals,Long-nosed Bandicoot,camera,cage,hair,
+Mammals,Long-nosed Potoroo,camera,hair,sign,
+Mammals,Mountain Pygmy-possum,camera,elliot,hair,
+Mammals,New Holland Mouse,camera,elliot,hair,
+Mammals,Platypus,,,fyke,edna
+Mammals,Smoky Mouse,camera,elliot,area,
+Mammals,Southern Brown Bandicoot,camera,,area,
+Mammals,Spotted-tailed Quoll,camera,cage,,
+Mammals,Water Rat,camera,cage,,
+Mammals,White-footed Dunnart,camera,elliot,,
+Reptiles,Alpine Bog Skink,area,pitfall,,
+Reptiles,Alpine She-oak Skink,area,pitfall,,
+Reptiles,Alpine Water Skink,area,pitfall,,
+Reptiles,Copper-tailed Skink,area,pitfall,,
+Reptiles,Diamond Python,area,,spotlight,
+Reptiles,Eastern She-oak Skink,area,pitfall,,
+Reptiles,Gippsland Water Dragon,area,cage,,
+Reptiles,Lace Monitor,area,,,camera
+Reptiles,Red-throated Skink,area,pitfall,,
+Reptiles,Swamp Skink,area,pitfall,,
+Reptiles,Yellow-bellied Water Skink,area,pitfall,,

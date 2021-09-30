@@ -1,0 +1,46 @@
+﻿Group,Species,Method1,Method2,Method3,Method4
+Frogs,Alpine Tree Frog,0.2501058,0,0.2501058,0
+Frogs,Blue Mountains Tree Frog,0.4376587,0,0,0
+Frogs,Booroolong Tree Frog,0.4376587,0.4376587,0,0
+Frogs,Dendys Toadlet,0.4376587,0.4376587,0,0
+Frogs,Giant Burrowing Frog,0.4376587,0.4376587,0,0.5358411
+Frogs,Green and Golden Bell Frog,0.4376587,0.4376587,0,0
+Frogs,Kefersteins Tree Frog,0.4376587,0.4376587,0,0
+Frogs,Littlejohns Tree Frog,0.4376587,0.4376587,0,0
+Frogs,Martins Toadlet,0.4376587,0.4376587,0,0
+Frogs,Southern Barred Frog,0.2501058,0,0.2501058,0
+Frogs,Spotted Tree Frog,0.2501058,0,0.2501058,0
+Birds,Brown Gerygone,0,0.4376587,0,0.4376587
+Birds,Eastern Bristlebird,0,0.4376587,0,0
+Birds,Ground Parrot,0.6580048,0.6315969,0,0.4376587
+Birds,Lewins Honeyeater,0.4376587,0,0,0
+Birds,Red-browed Treecreeper,0,0.4376587,0,0.4376587
+Birds,Regent Honeyeater,0.3690427,0,0.2056718,0
+Birds,Spotted Quail-thrush,0,0.4376587,0,0
+Birds,Swift Parrot,0,0,0.2501058,0
+Mammals,Broad-toothed Rat,0.5358411,0.4376587,0,0
+Mammals,Brush-tailed Rock-wallaby,0.6315969,0,0.683772,0.6231711
+Mammals,Eastern Pygmy-possum,0.5358411,0.4376587,0.683772,0
+Mammals,Koala,0,0,0.683772,0.45
+Mammals,Long-footed Potoroo,0.7075982,0.4376587,0.683772,0.6231711
+Mammals,Long-nosed Bandicoot,0.5358411,0.4376587,0.4376587,0
+Mammals,Long-nosed Potoroo,0.5358411,0.4376587,0.683772,0
+Mammals,Mountain Pygmy-possum,0.5358411,0.4376587,0.4376587,0
+Mammals,New Holland Mouse,0.5358411,0.4376587,0.4376587,0
+Mammals,Platypus,0,0,0.116258,0.6231711
+Mammals,Smoky Mouse,0.6315969,0.4507623,0.4376587,0
+Mammals,Southern Brown Bandicoot,0.5358411,0,0.4376587,0
+Mammals,Spotted-tailed Quoll,0.4151965,0.4376587,0,0
+Mammals,Water Rat,0.5358411,0.4376587,0,0
+Mammals,White-footed Dunnart,0.5358411,0.4376587,0,0
+Reptiles,Alpine Bog Skink,0.6837722,0.4376587,0,0
+Reptiles,Alpine She-oak Skink,0.6837722,0.4376587,0,0
+Reptiles,Alpine Water Skink,0.6837722,0.4376587,0,0
+Reptiles,Copper-tailed Skink,0.6837722,0.4376587,0,0
+Reptiles,Diamond Python,0.6837722,0,0.6837722,0
+Reptiles,Eastern She-oak Skink,0.6837722,0.4376587,0,0
+Reptiles,Gippsland Water Dragon,0.6837722,0.4376587,0,0
+Reptiles,Lace Monitor,0.6837722,0,0,0.5358411
+Reptiles,Red-throated Skink,0.6837722,0.4376587,0,0
+Reptiles,Swamp Skink,0.6837722,0.4376587,0,0
+Reptiles,Yellow-bellied Water Skink,0.6837722,0.4376587,0,0
